@@ -86,7 +86,7 @@ const Footer = () => {
   return (
     <Container>
         <Left>
-            <Logo>Lama Store.</Logo>
+            <Logo>Quinter.</Logo>
             <Description>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus numquam iste repellat dolorum ratione eius vero tempore exercitationem, perferendis in?
             </Description>
